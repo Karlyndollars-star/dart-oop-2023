@@ -91,7 +91,7 @@ void main() {
 
   // Testing the owner setter
   BusCard card = BusCard('Karlyn', 1620);
-  card.owner = 'Al';
+  card.owner = 'KB';
   card.showInfo();
 
   // Changing the owner to a valid name
@@ -114,3 +114,9 @@ void main() {
   student.pay(262);
   student.showInfo();
 }
+
+   
+ 
+
+
+ 
